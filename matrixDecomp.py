@@ -188,6 +188,8 @@ def GivensTriDia(A:np.array):
 
     return Q, A_
 
+# Some test cases
+
 # A = np.array([
 #     [1, 0, 1, 3],
 #     [-2, -3, 1, 2],
